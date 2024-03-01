@@ -12,5 +12,5 @@ export default defineConfig({
           assets: '/src/assets'
         },
       },
-      base: '/DrinkMaster-FrontEnd/',
+      base: '/fs-89-react-node-LightPride/',
     });
